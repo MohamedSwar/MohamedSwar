@@ -32,26 +32,14 @@ Software Engineer & .NET Full Stack Developer. I build stable, business-driven w
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Performance
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSwar&theme=nord&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSwar&theme=nord&hide_border=false&layout=compact" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSwar&theme=nord&hide_border=false&include_all_commits=true&count_private=true" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=MohamedSwar&theme=nord&hide_border=false" width="49%">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MohamedSwar&theme=nord&hide_border=false">
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MohamedSwar&limit=5&theme=nord&combine_all_yearly_contributions=true">
-</div>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MohamedSwar&icon=2&color=0">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MohamedSwar&style=flat&color=81A1C1&label=PROFILE+VIEWS">
 </div>
