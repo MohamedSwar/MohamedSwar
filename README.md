@@ -2,8 +2,8 @@
 <h1> Mohamed Swar | Design The Future </h1>
 <h3> Software Engineer & .NET Full Stack Developer </h3>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=0ea5e9&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%230ea5e9&title_bg=%231e293b&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Totals Hits](https://komarev.com/ghpvc/?username=MohamedSwar&style=flat&color=0ea5e9&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamedSwar&count_bg=%230ea5e9&title_bg=%231e293b&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamedswar) <br>
 </div>
 
